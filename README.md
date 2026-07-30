@@ -4,11 +4,15 @@ A backup is a copy of your data you can restore from when the original is lost, 
 
 ## What is inside
 
-- `01-why-backups-fail-you.md` the false confidence of untested backups
-- `02-the-3-2-1-rule.md` multiple copies, multiple media, one offsite
-- `03-rto-and-rpo.md` how fast you recover and how much you can lose
-- `04-testing-restores.md` the step everyone skips and should not
-- `05-what-to-back-up-and-retention.md` scope, schedules, and how long to keep
+- [01-why-backups-fail-you.md](01-why-backups-fail-you.md) the false confidence of untested backups
+- [02-the-3-2-1-rule.md](02-the-3-2-1-rule.md) multiple copies, multiple media, one offsite
+- [03-rto-and-rpo.md](03-rto-and-rpo.md) how fast you recover and how much you can lose
+- [04-testing-restores.md](04-testing-restores.md) the step everyone skips and should not
+- [05-what-to-back-up-and-retention.md](05-what-to-back-up-and-retention.md) scope, schedules, and how long to keep
+
+## More
+
+Part of a catalog of single-file browser tools and plain-language references, all MIT licensed and dependency-free: [0xelitesystem.github.io](https://0xelitesystem.github.io/). Built by [elitesystem.ai](https://elitesystem.ai).
 
 ## License
 
